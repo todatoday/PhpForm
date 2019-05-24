@@ -1,0 +1,52 @@
+body{
+    
+    background-color: rgb(209, 212, 37);
+}
+.form{
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 12px;
+    font-family:  Times, serif;
+    background-color: rgb(207, 119, 19);
+    position:absolute;
+	left: 35%;
+    top: 200px;
+    width: 400px;
+    height: 500px;
+    padding-top: 60px;
+    
+}
+#username{
+    margin-bottom: 10px;
+    height: 27px;
+    border: 4px solid rgb(21, 211, 100);
+    border-radius: 10px;
+}
+#email{
+    margin-bottom: 10px;  
+    height: 27px;
+    border: 4px solid rgb(21, 211, 100);
+    border-radius: 10px;
+}
+#password{
+    margin-bottom: 10px;
+    height: 27px;
+    border: 4px solid rgb(21, 211, 100);
+    border-radius: 10px;
+}
+#password_repeat{
+    margin-bottom: 10px;
+    height: 27px;
+    border: 4px solid rgb(21, 211, 100);
+    border-radius: 10px;
+}
+
+
+
+#up{
+    margin-top: 10px;
+    background-color: rgb(206, 113, 59);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
